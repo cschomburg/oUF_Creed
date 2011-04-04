@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: oUF_Creed
+## Author: Cargor
+## Version: 1.0
+## Notes: oUF layout.
+## Dependencies: oUF
+
+player_target.lua
+shared.lua
